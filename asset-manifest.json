@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/virtualHealthCareWorkshop/static/css/main.832e4762.css",
+    "main.js": "/virtualHealthCareWorkshop/static/js/main.e4452339.js",
+    "static/js/453.2eab6565.chunk.js": "/virtualHealthCareWorkshop/static/js/453.2eab6565.chunk.js",
+    "static/media/workshop1.jpg": "/virtualHealthCareWorkshop/static/media/workshop1.1e43e3b4fa9e7e688956.jpg",
+    "static/media/workshop2.jpeg": "/virtualHealthCareWorkshop/static/media/workshop2.abe4dde62d08851c777a.jpeg",
+    "static/media/about.png": "/virtualHealthCareWorkshop/static/media/about.11731de19a18c0e65326.png",
+    "static/media/hero.png": "/virtualHealthCareWorkshop/static/media/hero.76393a0c0d78e3229ebd.png",
+    "static/media/workshop3.jpg": "/virtualHealthCareWorkshop/static/media/workshop3.22ba08217cbbf7cbd95f.jpg",
+    "static/media/sunshine.png": "/virtualHealthCareWorkshop/static/media/sunshine.a7ea902361866a046d5b.png",
+    "static/media/Apollo.png": "/virtualHealthCareWorkshop/static/media/Apollo.568432532d108aa8b0ec.png",
+    "index.html": "/virtualHealthCareWorkshop/index.html",
+    "main.832e4762.css.map": "/virtualHealthCareWorkshop/static/css/main.832e4762.css.map",
+    "main.e4452339.js.map": "/virtualHealthCareWorkshop/static/js/main.e4452339.js.map",
+    "453.2eab6565.chunk.js.map": "/virtualHealthCareWorkshop/static/js/453.2eab6565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.832e4762.css",
+    "static/js/main.e4452339.js"
+  ]
+}
